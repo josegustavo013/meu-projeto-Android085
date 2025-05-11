@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@font-face {
+    font-family: 'android';
+    src: url("fontes/idroid.otf");
+}
+
+.criador{
+    border-radius: 150px;
+    border:  solid blue;
+
+}
+
+body{
+    text-align: center;
+    align-content: center;
+align-items: center;
+background-color: #c5ebd6; 
+margin: 0px;
+padding:0px;
+
+    
+}
+header{
+background-image: linear-gradient(to bottom, #2fa866, #1a5c37);
+color: white;
+    padding-top: 20px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.estouaqui{
+background-color: rgb(0, 0, 0);
+
+}
+
+h2{
+    border-radius: 8px;
+display: inline-block;
+
+}
+.video{
+display: inline-block;
+}
+
+
+nav{
+
+    box-shadow: 0, 7px, 9px, black;
+    padding: 10px;
+    background-color: #063d1e;
+   text-align: left;
+}
+
+nav > a {
+
+    color:#c5ebd6;
+    padding:10px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+nav > a:hover{
+    background-color:#2fa866; 
+    color: #063d1e;
+}
+
+.subtitulo{
+    background-color:  #5dd392;
+    font-family: "android";
+    display: inline-block;
+    border-radius: 5px;
+    align-items: center;
+}
+
+
+article{
+    min-width: 300px;
+    max-width: 1000px;
+    margin:auto;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.473);
+    padding: 60px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+   
+   
+   }
+   
+
+**/cor do android: #3EDA86
+código da lampada: 1F4A1
+codigo do jornal: &#128240;
+codigo do telefone: 1F4DE
+
+
+
+
+
+
+
+
+**/noticias
+
+.title{
+    background-color: yellow;
+}
+
+footer{
+
+    background-color: #063d1e;
+    color:white;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    
+}
+
+a.ativo{
+    background-color: black;
+
+}
+
+.insta{
+
+    display: inline-block;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+
